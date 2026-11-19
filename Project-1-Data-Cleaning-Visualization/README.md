@@ -44,7 +44,6 @@ Created the following visualizations:
 
 ## Repository Contents
 
-| File | Description |
 | `Data_cleaning.ipynb` | Jupyter Notebook containing the Python code and analysis |
 | `Sample_data_cleaning_project.csv` | Original dataset used for the project |
 
