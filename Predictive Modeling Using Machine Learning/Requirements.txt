@@ -1,7 +1,7 @@
-## Libraries required 
-tensorflow
-opencv-python
-numpy
-matplotlib
-scikit-learn
-Pillow
+Libraries required 
+  tensorflow
+  opencv-python
+  numpy
+  matplotlib
+  scikit-learn
+  Pillow
