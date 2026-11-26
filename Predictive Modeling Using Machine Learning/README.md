@@ -25,7 +25,7 @@ Keep these files in the `Task_2 ROC Curve` folder:
 | `cell_images/` | Dataset folder containing `Parasitized/` and `Uninfected/` subfolders |
 | `requirements.txt` | Python package dependencies |
 
-## Dataset source and licence
+## Dataset source 
 
 The dataset is from "https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html"
 
